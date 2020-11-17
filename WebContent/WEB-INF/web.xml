@@ -23,7 +23,7 @@
   </filter-mapping>
   <servlet>
     <servlet-name>DummyServlet</servlet-name>
-    <servlet-class>com.highradius.DummyServlet</servlet-class>
+    <servlet-class>com.highradius.internship.DummyServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>DummyServlet</servlet-name>

@@ -1,4 +1,4 @@
-package com.highradius;
+package com.highradius.internship;
 
 public class Response {
 String name;

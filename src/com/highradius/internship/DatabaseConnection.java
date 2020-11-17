@@ -1,4 +1,4 @@
-package com.highradius;
+package com.highradius.internship;
 import java.sql.Connection; 
 import java.sql.DriverManager; 
 import java.sql.SQLException; 
