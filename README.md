@@ -10,4 +10,4 @@ Please follow the below mentioned steps to clone this repository:
 4) If you don't have git installed on your system, you can follow the the steps mentioned here(https://phoenixnap.com/kb/how-to-install-git-windows) to install git.
 5) Alternatively, you can download a zip file from the git repo to skip the cloning process.
 
-Once you have successfully cloned the repository, please follow this video reference(https://www.youtube.com/watch?v=qFp2mqnMoLs) to setup the local workspace.
+Once you have successfully cloned the repository, please follow this video reference(https://youtu.be/6mISXw7xUTg) to setup the local workspace.
